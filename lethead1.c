@@ -1,4 +1,3 @@
-```c
 /* lethead1.c */
 #include<stdio.h>
 #define NAME "GIGATHINK, INC."
@@ -25,4 +24,3 @@ void starbar(void) {
 	}
 	putchar('\n');
 }
-```
