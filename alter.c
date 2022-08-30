@@ -1,5 +1,5 @@
+//alter.c - присваивает переменным значения их суммы и разности
 #define _CRT_SECURE_NO_WARNINGS
-/* alter.c */
 #include<stdio.h>
 
 int alter(int * x, int * y);
