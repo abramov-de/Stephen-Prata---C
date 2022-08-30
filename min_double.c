@@ -1,3 +1,4 @@
+//min_double.c - наименьшее из двух чисел
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
