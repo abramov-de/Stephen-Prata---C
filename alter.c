@@ -1,4 +1,3 @@
-```c
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
@@ -21,4 +20,3 @@ int alter(int * x, int * y) {
 	*x = sum;
 	*y = dif;
 }
-```
