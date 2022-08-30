@@ -1,4 +1,3 @@
-```c
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
@@ -21,4 +20,3 @@ void larger_of(double * a, double * b) {
 	else
 		*a = *b;
 }
-```
