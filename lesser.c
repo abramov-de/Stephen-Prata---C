@@ -1,4 +1,3 @@
-```c
 #define _CRT_SECURE_NO_WARNINGS
 /* lesser.c */
 #include<stdio.h>
@@ -29,4 +28,3 @@ int imin(int n, int m) {
 
 	return min;
 }
-```
