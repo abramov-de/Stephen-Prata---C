@@ -1,4 +1,4 @@
-/* lethead1.c */
+//lethead1.c - заголовок письма 1
 #include<stdio.h>
 #define NAME "GIGATHINK, INC."
 #define ADDRESS "101 Megabuck Plaza"
