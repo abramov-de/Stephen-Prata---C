@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
+/* alter.c */
 #include<stdio.h>
 
 int alter(int * x, int * y);
