@@ -1,4 +1,3 @@
-```c
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
@@ -20,4 +19,3 @@ double harmonic_mean(double a, double b) {
 	ans = 1 / arithmetic_mean;
 	return ans;
 }
-```
