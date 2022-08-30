@@ -1,3 +1,4 @@
+//show_menu.c - вывод простого меню
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
