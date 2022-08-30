@@ -1,4 +1,3 @@
-```c
 /* lethead2.c */
 #include<stdio.h>
 #include<string.h>
@@ -39,4 +38,3 @@ void show_n_char(char ch, int num) {
 		putchar(ch);
 	}
 }
-```
