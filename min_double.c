@@ -1,4 +1,3 @@
-```c
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
@@ -25,4 +24,3 @@ double min(double a, double b) {
 		min = b;
 	return min;
 }
-```
