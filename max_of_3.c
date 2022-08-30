@@ -1,3 +1,4 @@
+//max_of_3.c - максимальный из трех элементов
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
