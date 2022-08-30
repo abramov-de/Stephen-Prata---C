@@ -1,3 +1,4 @@
+//larger_of - присваивает обоим переменным значение большей из них
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
