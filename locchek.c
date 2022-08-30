@@ -1,4 +1,4 @@
-/* loccheck.c */
+//loccheck.c - проверка с целью выяснения, где хранятся переменные
 #include<stdio.h>
 
 void mikado(int);
