@@ -1,5 +1,5 @@
+//lesser.c - из двух выбирает меньшую
 #define _CRT_SECURE_NO_WARNINGS
-/* lesser.c */
 #include<stdio.h>
 
 int imin(int, int);
