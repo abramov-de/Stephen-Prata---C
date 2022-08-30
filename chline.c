@@ -1,3 +1,4 @@
+//chline.c - печатает требуемый символ в столбцах от i до j
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
