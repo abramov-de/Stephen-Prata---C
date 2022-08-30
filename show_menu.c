@@ -1,4 +1,3 @@
-```c
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
@@ -32,4 +31,3 @@ int getchoice(int low, int high) {
 	}
 	return ans;
 }
-```
