@@ -1,4 +1,3 @@
-```c
 /* loccheck.c */
 #include<stdio.h>
 
@@ -18,4 +17,3 @@ void mikado(int bah) {
 	printf("В функции mikado() pooh = %d и &pooh = %p\n", pooh, &pooh);
 	printf("В функции mikado() bah = %d и &bah = %p\n, bah, &bah");
 }
-```
